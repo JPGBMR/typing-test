@@ -1,6 +1,7 @@
 
 # SpeedTyper
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/JPGBMR/typing-test)
 SpeedTyper is a fun and engaging typing speed test game built with Python and Tkinter. Challenge yourself to type as quickly and accurately as possible within 30 seconds and track your Words Per Minute (WPM) and accuracy scores.
 
 ---
@@ -67,3 +68,13 @@ SpeedTyper/
 - Add a leaderboard to track high scores.
 - Include a settings panel for customizing the test duration and difficulty.
 - Provide more diverse text passages for practice.
+
+## Getting Started
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+---
+*Part of the [JPGBMR](https://github.com/JPGBMR) open-source portfolio.*
